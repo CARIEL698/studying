@@ -14,7 +14,7 @@ def load_lottie_url(url: str):
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.subheader("Hi, Cariel Faith G. Alduheza  :wave:")
+    st.subheader("Hi, I am Cariel Faith G. Alduheza  :wave:")
     st.title("A First Year Computer Engineering Student at SNSU")
     st.write("Today, I will teach you the techniques for studying harder and smarter, helping you unlock your full potential.")
 st.title("Study Smart! 📚✨")
